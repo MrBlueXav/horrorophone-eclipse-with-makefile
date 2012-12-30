@@ -1,4 +1,11 @@
-/* blepvco - minBLEP-based, hard-sync-capable LADSPA VCOs.
+/*
+ *  ******************************************************************************
+  * @file     minblep_tables.h.c
+  * @author  Sean Bolton
+  * @version
+  * @date    october 2012
+  *
+ *  From blepvco - minBLEP-based, hard-sync-capable LADSPA VCOs.
  *
  * Copyright (C) 2004-2005 Sean Bolton.
  *

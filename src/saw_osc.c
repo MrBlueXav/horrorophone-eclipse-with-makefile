@@ -1,4 +1,11 @@
-/* Sawtooth Oscillator with vibrato and delay effect
+/*
+ * ******************************************************************************
+  * @file     saw_osc.c
+  * @author  Xavier Halgand
+  * @version
+  * @date    october 2012
+ *
+ * Sawtooth Oscillator with vibrato and delay effect
  * by Xavier Halgand,
  *
  * based on "blepvco" :
@@ -71,29 +78,6 @@ place_step_dd(float *buffer, uint16_t index, float phase, float w, float scale)
 		index++;
 	}
 }
-//---------------------------------------------------------------------------
-/*
-void
-place_slope_dd(float *buffer, int index, float phase, float w, float slope_delta)
-{
-	float r;
-	int i;
-
-	r = MINBLEP_PHASES * phase / w;
-	i = lrintf(r - 0.5f);
-	r -= (float)i;
-	i &= MINBLEP_PHASE_MASK;  // extreme modulation can cause i to be out-of-range
-
-	slope_delta *= w;
-
-	while (i < MINBLEP_PHASES * SLOPE_DD_PULSE_LENGTH) {
-		buffer[index] += slope_delta * (slope_dd_table[i] + r * (slope_dd_table[i + 1] - slope_dd_table[i]));
-		i += MINBLEP_PHASES;
-		index++;
-	}
-}
-*/
-//---------------------------------------------------------------------------
 
 void
 sawtooth_active (void)
@@ -132,7 +116,7 @@ sawtooth_runproc (uint16_t offset, uint16_t len)
 	}
 
 	//a = 0.2 + 0.8 * _port [FILT][0];
-	// adjust lowpass filter
+	// adjust lowpass filter :
 	a = 0.5f;
 
 	do

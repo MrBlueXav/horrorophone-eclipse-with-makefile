@@ -4,7 +4,7 @@
   * @author  
   * @version 
   * @date    
-  * @brief   Header for newmain.c module
+  * @brief   Header for main.c
   ******************************************************************************
 */
   

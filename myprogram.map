@@ -1,17 +1,17 @@
 Archive member included because of file (symbol)
 
 c:/gnutoolsarmembedded/4.6-2012q4/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
-                              C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o (__aeabi_f2d)
+                              C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o (__aeabi_f2d)
 c:/gnutoolsarmembedded/4.6-2012q4/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
-                              C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o (__aeabi_dcmplt)
+                              C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o (__aeabi_dcmplt)
 C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-memcpy.o)
-                              C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o (memcpy)
+                              C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o (memcpy)
 C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu\libc.a(lib_a-memset.o)
-                              C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o (memset)
+                              C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o (memset)
 C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_lrint.o)
-                              C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o (lrintf)
+                              C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o (lrintf)
 C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_sin.o)
-                              C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o (sinf)
+                              C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o (sinf)
 C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-ef_rem_pio2.o)
                               C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf_sin.o) (__ieee754_rem_pio2f)
 C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-kf_cos.o)
@@ -32,607 +32,607 @@ C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu\libm.a(lib_a-sf
 Allocating common symbols
 Common symbol       size              file
 
-_j                  0x2               C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-CurrentPos          0x4               C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
-_z                  0x4               C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-freq                0x4               C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-_init               0x2               C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-readpos             0x4               C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-_p                  0x4               C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-_w                  0x4               C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-phase2Step          0x4               C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+_j                  0x2               C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+CurrentPos          0x4               C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
+_z                  0x4               C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+freq                0x4               C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+_init               0x2               C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+readpos             0x4               C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+_p                  0x4               C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+_w                  0x4               C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+phase2Step          0x4               C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
 AUDIO_MAL_DMA_InitStructure
-                    0x3c              C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
-GPIO_InitStructure  0x8               C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-writepos            0x4               C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-_f                  0x520             C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-NVIC_InitStructure  0x4               C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
-RCC_Clocks          0x10              C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-DMA_InitStructure   0x3c              C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                    0x3c              C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
+GPIO_InitStructure  0x8               C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+writepos            0x4               C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+_f                  0x520             C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+NVIC_InitStructure  0x4               C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
+RCC_Clocks          0x10              C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+DMA_InitStructure   0x3c              C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
 
 Discarded input sections
 
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
- .text.Delay    0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccVTD6w2.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccVTD6w2.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+ .text.Delay    0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc2JOrUz.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc2JOrUz.o
  .text.SystemCoreClockUpdate
-                0x00000000       0x90 C:\Users\CNous\AppData\Local\Temp\ccVTD6w2.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o
+                0x00000000       0x90 C:\Users\CNous\AppData\Local\Temp\cc2JOrUz.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o
  .text.place_step_dd
-                0x00000000       0xdc C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc9h8BCO.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc9h8BCO.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc9h8BCO.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x00000000       0xdc C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccjdkwZH.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccjdkwZH.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccjdkwZH.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
  .text.EVAL_AUDIO_SetAudioInterface
-                0x00000000       0xb0 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x00000000       0xb0 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
  .text.EVAL_AUDIO_DeInit
-                0x00000000      0x170 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x00000000      0x170 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
  .text.EVAL_AUDIO_PauseResume
-                0x00000000      0x298 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x00000000      0x298 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
  .text.EVAL_AUDIO_Stop
-                0x00000000      0x1a4 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x00000000      0x1a4 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
  .text.EVAL_AUDIO_VolumeCtl
-                0x00000000      0x1e4 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x00000000      0x1e4 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
  .text.EVAL_AUDIO_Mute
-                0x00000000       0xe4 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x00000000       0xe4 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
  .text.Audio_MAL_Play
-                0x00000000       0x60 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x00000000       0x60 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
  .text.DAC_Config
-                0x00000000       0x50 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
+                0x00000000       0x50 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
  .text.STM_EVAL_LEDToggle
-                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
- COMMON         0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
+                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
+ COMMON         0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
  .text.SYSCFG_DeInit
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
  .text.SYSCFG_MemoryRemapConfig
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
  .text.SYSCFG_ETH_MediaInterfaceConfig
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
  .text.SYSCFG_CompensationCellCmd
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
  .text.SYSCFG_GetCompensationCellStatus
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
  .text.NVIC_PriorityGroupConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
  .text.NVIC_SetVectorTable
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
  .text.NVIC_SystemLPConfig
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
  .text.SysTick_CLKSourceConfig
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_DeInit
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_StructInit
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_CommonStructInit
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_AnalogWatchdogCmd
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_AnalogWatchdogThresholdsConfig
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_AnalogWatchdogSingleChannelConfig
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_TempSensorVrefintCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_VBATCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_GetSoftwareStartConvStatus
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_EOCOnEachRegularChannelCmd
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_ContinuousModeCmd
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_DiscModeChannelCountConfig
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_DiscModeCmd
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_GetConversionValue
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_GetMultiModeConversionValue
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_MultiModeDMARequestAfterLastTransferCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_InjectedChannelConfig
-                0x00000000       0x68 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x68 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_InjectedSequencerLengthConfig
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_SetInjectedOffset
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_ExternalTrigInjectedConvConfig
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_ExternalTrigInjectedConvEdgeConfig
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_SoftwareStartInjectedConv
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_GetSoftwareStartInjectedConvCmdStatus
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_AutoInjectedConvCmd
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_InjectedDiscModeCmd
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_GetInjectedConversionValue
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_ITConfig
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_GetFlagStatus
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_ClearFlag
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_GetITStatus
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .text.ADC_ClearITPendingBit
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_StructInit
-                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_PeriphIncOffsetSizeConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_FlowControllerConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_SetCurrDataCounter
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_GetCurrDataCounter
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_DoubleBufferModeConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_DoubleBufferModeCmd
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_MemoryTargetConfig
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_GetCurrentMemoryTarget
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_GetCmdStatus
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_GetFIFOStatus
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_GetITStatus
-                0x00000000       0x60 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x00000000       0x60 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .text.DMA_ClearITPendingBit
-                0x00000000       0x44 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
+                0x00000000       0x44 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
  .text.EXTI_DeInit
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
  .text.EXTI_StructInit
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
  .text.EXTI_GenerateSWInterrupt
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
  .text.EXTI_GetFlagStatus
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
  .text.EXTI_ClearFlag
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
  .text.EXTI_GetITStatus
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
  .text.EXTI_ClearITPendingBit
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .text.GPIO_DeInit
-                0x00000000      0x128 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x00000000      0x128 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .text.GPIO_StructInit
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .text.GPIO_PinLockConfig
-                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .text.GPIO_ReadInputData
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .text.GPIO_ReadOutputDataBit
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .text.GPIO_ReadOutputData
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .text.GPIO_SetBits
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .text.GPIO_ResetBits
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .text.GPIO_Write
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .text.GPIO_ToggleBits
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_StructInit
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_OwnAddress2Config
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_DualAddressCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_GeneralCallCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_SoftwareResetCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_StretchClockCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_FastModeDutyCycleConfig
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_NACKPositionConfig
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_SMBusAlertConfig
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_ARPCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_TransmitPEC
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_PECPositionConfig
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_CalculatePEC
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_GetPEC
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_DMACmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_DMALastTransferCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_ReadRegister
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_ITConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_GetLastEvent
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_GetITStatus
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .text.I2C_ClearITPendingBit
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_DeInit
-                0x00000000       0x38 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x38 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_HSEConfig
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_WaitForHSEStartUp
-                0x00000000       0x34 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x34 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_AdjustHSICalibrationValue
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_HSICmd
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_LSEConfig
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_LSICmd
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_PLLConfig
-                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_PLLCmd
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_PLLI2SConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_PLLI2SCmd
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_ClockSecuritySystemCmd
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_MCO1Config
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_MCO2Config
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_SYSCLKConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_GetSYSCLKSource
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_HCLKConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_PCLK1Config
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_PCLK2Config
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_RTCCLKConfig
-                0x00000000       0x44 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x44 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_RTCCLKCmd
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_BackupResetCmd
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_I2SCLKConfig
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_AHB3PeriphClockCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_AHB1PeriphResetCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_AHB2PeriphResetCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_AHB3PeriphResetCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_AHB1PeriphClockLPModeCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_AHB2PeriphClockLPModeCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_AHB3PeriphClockLPModeCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_APB1PeriphClockLPModeCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_APB2PeriphClockLPModeCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_ITConfig
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_GetFlagStatus
-                0x00000000       0x3c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x3c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_ClearFlag
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_GetITStatus
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .text.RCC_ClearITPendingBit
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_Init
-                0x00000000       0x60 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x60 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_StructInit
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.I2S_StructInit
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
- .text.SPI_Cmd  0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
+ .text.SPI_Cmd  0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_DataSizeConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_BiDirectionalLineConfig
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_NSSInternalSoftwareConfig
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_SSOutputCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_TIModeCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.I2S_FullDuplexConfig
-                0x00000000       0x54 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x54 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_I2S_ReceiveData
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_CalculateCRC
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_TransmitCRC
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_GetCRC
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_GetCRCPolynomial
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_I2S_ClearFlag
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_I2S_GetITStatus
-                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .text.SPI_I2S_ClearITPendingBit
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_DeInit
-                0x00000000      0x1d4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000      0x1d4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_TimeBaseInit
-                0x00000000       0xb8 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0xb8 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_TimeBaseStructInit
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_PrescalerConfig
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_CounterModeConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetCounter
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetAutoreload
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_GetCounter
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_GetPrescaler
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_UpdateDisableConfig
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_UpdateRequestConfig
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ARRPreloadConfig
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SelectOnePulseMode
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetClockDivision
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
- .text.TIM_Cmd  0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
+ .text.TIM_Cmd  0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC1Init
-                0x00000000       0x98 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x98 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC2Init
-                0x00000000       0xa0 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0xa0 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC3Init
-                0x00000000       0xa0 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0xa0 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC4Init
-                0x00000000       0x74 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x74 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OCStructInit
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SelectOCxM
-                0x00000000       0x58 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x58 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetCompare1
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetCompare2
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetCompare3
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetCompare4
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ForcedOC1Config
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ForcedOC2Config
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ForcedOC3Config
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ForcedOC4Config
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC1PreloadConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC2PreloadConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC3PreloadConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC4PreloadConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC1FastConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC2FastConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC3FastConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC4FastConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ClearOC1Ref
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ClearOC2Ref
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ClearOC3Ref
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ClearOC4Ref
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC1PolarityConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC1NPolarityConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC2PolarityConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC2NPolarityConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC3PolarityConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC3NPolarityConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_OC4PolarityConfig
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_CCxCmd
-                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_CCxNCmd
-                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ICInit
-                0x00000000      0x198 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000      0x198 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ICStructInit
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_PWMIConfig
-                0x00000000      0x174 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000      0x174 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_GetCapture1
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_GetCapture2
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_GetCapture3
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_GetCapture4
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetIC1Prescaler
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetIC2Prescaler
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetIC3Prescaler
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SetIC4Prescaler
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_BDTRConfig
-                0x00000000       0x34 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x34 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_BDTRStructInit
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_CtrlPWMOutputs
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SelectCOM
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_CCPreloadControl
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ITConfig
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_GenerateEvent
-                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_GetFlagStatus
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ClearFlag
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_GetITStatus
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ClearITPendingBit
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_DMAConfig
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_DMACmd
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SelectCCDMA
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_InternalClockConfig
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ITRxExternalClockConfig
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_TIxExternalClockConfig
-                0x00000000       0x9c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x9c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ETRClockMode1Config
-                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ETRClockMode2Config
-                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SelectInputTrigger
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SelectOutputTrigger
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SelectSlaveMode
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SelectMasterSlaveMode
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_ETRConfig
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_EncoderInterfaceConfig
-                0x00000000       0x44 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x44 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_SelectHallSensor
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .text.TIM_RemapConfig
-                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_DeInit
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_StructInit
-                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_SoftwareTriggerCmd
-                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_DualSoftwareTriggerCmd
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_WaveGenerationCmd
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_SetChannel2Data
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_SetDualChannelData
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_GetDataOutputValue
-                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_DMACmd
-                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_ITConfig
-                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_GetFlagStatus
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_ClearFlag
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_GetITStatus
-                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .text.DAC_ClearITPendingBit
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
- .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
  .text.RNG_DeInit
-                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
  .text.RNG_ITConfig
-                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
  .text.RNG_ClearFlag
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
  .text.RNG_GetITStatus
-                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
  .text.RNG_ClearITPendingBit
-                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
- .text          0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccs07vTt.o
- .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccs07vTt.o
- .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccs07vTt.o
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
+ .text          0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc3nPkKo.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc3nPkKo.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc3nPkKo.o
  .data          0x00000000        0x0 c:/gnutoolsarmembedded/4.6-2012q4/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
  .bss           0x00000000        0x0 c:/gnutoolsarmembedded/4.6-2012q4/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
  .data          0x00000000        0x0 c:/gnutoolsarmembedded/4.6-2012q4/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
@@ -688,262 +688,262 @@ Linker script and memory map
 
 .text           0x08000000     0xd0d4
  *(.isr_vector .isr_vector.*)
- .isr_vector    0x08000000      0x188 C:\Users\CNous\AppData\Local\Temp\ccs07vTt.o
+ .isr_vector    0x08000000      0x188 C:\Users\CNous\AppData\Local\Temp\cc3nPkKo.o
                 0x08000000                g_pfnVectors
  *(.text .text.* .gnu.linkonce.t.*)
  .text.TimingDelay_Decrement
-                0x08000188       0x14 C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+                0x08000188       0x14 C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x08000188                TimingDelay_Decrement
  .text.Codec_TIMEOUT_UserCallback
-                0x0800019c        0xc C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+                0x0800019c        0xc C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x0800019c                Codec_TIMEOUT_UserCallback
  .text.EVAL_AUDIO_HalfTransfer_CallBack
-                0x080001a8        0x8 C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+                0x080001a8        0x8 C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x080001a8                EVAL_AUDIO_HalfTransfer_CallBack
  .text.EVAL_AUDIO_TransferComplete_CallBack
-                0x080001b0        0x8 C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+                0x080001b0        0x8 C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x080001b0                EVAL_AUDIO_TransferComplete_CallBack
  .text.EVAL_AUDIO_GetSampleCallBack
-                0x080001b8        0x4 C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+                0x080001b8        0x4 C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x080001b8                EVAL_AUDIO_GetSampleCallBack
  .text.randomNum
-                0x080001bc       0x2c C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+                0x080001bc       0x2c C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x080001bc                randomNum
  .text.ADC3_CH12_DMA_Config
-                0x080001e8       0xec C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+                0x080001e8       0xec C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x080001e8                ADC3_CH12_DMA_Config
  .text.startup.main
-                0x080002d4      0x130 C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+                0x080002d4      0x130 C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x080002d4                main
  .text.NMI_Handler
-                0x08000404        0x4 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x08000404        0x4 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x08000404                NMI_Handler
  .text.HardFault_Handler
-                0x08000408        0x4 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x08000408        0x4 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x08000408                HardFault_Handler
  .text.MemManage_Handler
-                0x0800040c        0x4 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x0800040c        0x4 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x0800040c                MemManage_Handler
  .text.BusFault_Handler
-                0x08000410        0x4 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x08000410        0x4 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x08000410                BusFault_Handler
  .text.UsageFault_Handler
-                0x08000414        0x4 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x08000414        0x4 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x08000414                UsageFault_Handler
  .text.SVC_Handler
-                0x08000418        0x4 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x08000418        0x4 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x08000418                SVC_Handler
  .text.DebugMon_Handler
-                0x0800041c        0x4 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x0800041c        0x4 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x0800041c                DebugMon_Handler
  .text.PendSV_Handler
-                0x08000420        0x4 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x08000420        0x4 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x08000420                PendSV_Handler
  .text.SysTick_Handler
-                0x08000424       0x6c C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x08000424       0x6c C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x08000424                SysTick_Handler
  .text.EXTI0_IRQHandler
-                0x08000490        0x4 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x08000490        0x4 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x08000490                EXTI0_IRQHandler
  .text.TIM4_IRQHandler
-                0x08000494        0x4 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x08000494        0x4 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
                 0x08000494                TIM4_IRQHandler
  .text.SystemInit
-                0x08000498      0x160 C:\Users\CNous\AppData\Local\Temp\ccVTD6w2.o
+                0x08000498      0x160 C:\Users\CNous\AppData\Local\Temp\cc2JOrUz.o
                 0x08000498                SystemInit
  .text.sawtooth_active
-                0x080005f8       0x38 C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o
+                0x080005f8       0x38 C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o
                 0x080005f8                sawtooth_active
  .text.sawtooth_runproc
-                0x08000630      0x420 C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o
+                0x08000630      0x420 C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o
                 0x08000630                sawtooth_runproc
  .text.Codec_WriteRegister.part.0
-                0x08000a50      0x290 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x08000a50      0x290 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
  .text.EVAL_AUDIO_Init
-                0x08000ce0      0xc6c C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x08000ce0      0xc6c C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
                 0x08000ce0                EVAL_AUDIO_Init
  .text.EVAL_AUDIO_Play
-                0x0800194c       0x7c C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x0800194c       0x7c C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
                 0x0800194c                EVAL_AUDIO_Play
  .text.DMA1_Stream7_IRQHandler
-                0x080019c8       0x50 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x080019c8       0x50 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
                 0x080019c8                DMA1_Stream7_IRQHandler
  .text.DMA1_Stream0_IRQHandler
-                0x08001a18       0x50 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x08001a18       0x50 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
                 0x08001a18                DMA1_Stream0_IRQHandler
  .text.SPI3_IRQHandler
-                0x08001a68       0x44 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x08001a68       0x44 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
                 0x08001a68                SPI3_IRQHandler
  .text.STM_EVAL_LEDInit
-                0x08001aac       0x4c C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
+                0x08001aac       0x4c C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
                 0x08001aac                STM_EVAL_LEDInit
  .text.STM_EVAL_LEDOn
-                0x08001af8       0x20 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
+                0x08001af8       0x20 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
                 0x08001af8                STM_EVAL_LEDOn
  .text.STM_EVAL_LEDOff
-                0x08001b18       0x20 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
+                0x08001b18       0x20 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
                 0x08001b18                STM_EVAL_LEDOff
  .text.STM_EVAL_PBInit
-                0x08001b38       0x80 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
+                0x08001b38       0x80 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
                 0x08001b38                STM_EVAL_PBInit
  .text.STM_EVAL_PBGetState
-                0x08001bb8       0x18 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
+                0x08001bb8       0x18 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
                 0x08001bb8                STM_EVAL_PBGetState
  .text.SYSCFG_EXTILineConfig
-                0x08001bd0       0x3c C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
+                0x08001bd0       0x3c C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
                 0x08001bd0                SYSCFG_EXTILineConfig
  .text.NVIC_Init
-                0x08001c0c       0x88 C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
+                0x08001c0c       0x88 C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
                 0x08001c0c                NVIC_Init
  .text.ADC_Init
-                0x08001c94       0x58 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x08001c94       0x58 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
                 0x08001c94                ADC_Init
  .text.ADC_CommonInit
-                0x08001cec       0x34 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x08001cec       0x34 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
                 0x08001cec                ADC_CommonInit
- .text.ADC_Cmd  0x08001d20       0x14 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+ .text.ADC_Cmd  0x08001d20       0x14 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
                 0x08001d20                ADC_Cmd
  .text.ADC_RegularChannelConfig
-                0x08001d34       0xa0 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x08001d34       0xa0 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
                 0x08001d34                ADC_RegularChannelConfig
  .text.ADC_SoftwareStartConv
-                0x08001dd4        0xc C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x08001dd4        0xc C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
                 0x08001dd4                ADC_SoftwareStartConv
  .text.ADC_DMACmd
-                0x08001de0       0x14 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x08001de0       0x14 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
                 0x08001de0                ADC_DMACmd
  .text.ADC_DMARequestAfterLastTransferCmd
-                0x08001df4       0x14 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x08001df4       0x14 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
                 0x08001df4                ADC_DMARequestAfterLastTransferCmd
  .text.DMA_DeInit
-                0x08001e08      0x204 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x08001e08      0x204 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
                 0x08001e08                DMA_DeInit
  .text.DMA_Init
-                0x0800200c       0x98 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x0800200c       0x98 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
                 0x0800200c                DMA_Init
- .text.DMA_Cmd  0x080020a4       0x14 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+ .text.DMA_Cmd  0x080020a4       0x14 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
                 0x080020a4                DMA_Cmd
  .text.DMA_GetFlagStatus
-                0x080020b8       0x44 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x080020b8       0x44 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
                 0x080020b8                DMA_GetFlagStatus
  .text.DMA_ClearFlag
-                0x080020fc       0x44 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x080020fc       0x44 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
                 0x080020fc                DMA_ClearFlag
  .text.DMA_ITConfig
-                0x08002140       0x30 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x08002140       0x30 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
                 0x08002140                DMA_ITConfig
  .text.EXTI_Init
-                0x08002170       0x88 C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
+                0x08002170       0x88 C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
                 0x08002170                EXTI_Init
  .text.GPIO_Init
-                0x080021f8      0x170 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x080021f8      0x170 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
                 0x080021f8                GPIO_Init
  .text.GPIO_ReadInputDataBit
-                0x08002368        0xc C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x08002368        0xc C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
                 0x08002368                GPIO_ReadInputDataBit
  .text.GPIO_WriteBit
-                0x08002374        0xc C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x08002374        0xc C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
                 0x08002374                GPIO_WriteBit
  .text.GPIO_PinAFConfig
-                0x08002380       0x34 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x08002380       0x34 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
                 0x08002380                GPIO_PinAFConfig
  .text.I2C_DeInit
-                0x080023b4       0x70 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x080023b4       0x70 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x080023b4                I2C_DeInit
  .text.I2C_Init
-                0x08002424       0xfc C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x08002424       0xfc C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x08002424                I2C_Init
- .text.I2C_Cmd  0x08002520       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+ .text.I2C_Cmd  0x08002520       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x08002520                I2C_Cmd
  .text.I2C_GenerateSTART
-                0x0800253c       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x0800253c       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x0800253c                I2C_GenerateSTART
  .text.I2C_GenerateSTOP
-                0x08002558       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x08002558       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x08002558                I2C_GenerateSTOP
  .text.I2C_Send7bitAddress
-                0x08002574       0x14 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x08002574       0x14 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x08002574                I2C_Send7bitAddress
  .text.I2C_AcknowledgeConfig
-                0x08002588       0x1c C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x08002588       0x1c C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x08002588                I2C_AcknowledgeConfig
  .text.I2C_SendData
-                0x080025a4        0x4 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x080025a4        0x4 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x080025a4                I2C_SendData
  .text.I2C_ReceiveData
-                0x080025a8        0x8 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x080025a8        0x8 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x080025a8                I2C_ReceiveData
  .text.I2C_CheckEvent
-                0x080025b0       0x20 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x080025b0       0x20 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x080025b0                I2C_CheckEvent
  .text.I2C_GetFlagStatus
-                0x080025d0       0x38 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x080025d0       0x38 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x080025d0                I2C_GetFlagStatus
  .text.I2C_ClearFlag
-                0x08002608        0x8 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x08002608        0x8 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
                 0x08002608                I2C_ClearFlag
  .text.RCC_GetClocksFreq
-                0x08002610       0xbc C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x08002610       0xbc C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
                 0x08002610                RCC_GetClocksFreq
  .text.RCC_AHB1PeriphClockCmd
-                0x080026cc       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x080026cc       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
                 0x080026cc                RCC_AHB1PeriphClockCmd
  .text.RCC_AHB2PeriphClockCmd
-                0x080026e8       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x080026e8       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
                 0x080026e8                RCC_AHB2PeriphClockCmd
  .text.RCC_APB1PeriphClockCmd
-                0x08002704       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x08002704       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
                 0x08002704                RCC_APB1PeriphClockCmd
  .text.RCC_APB2PeriphClockCmd
-                0x08002720       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x08002720       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
                 0x08002720                RCC_APB2PeriphClockCmd
  .text.RCC_APB1PeriphResetCmd
-                0x0800273c       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x0800273c       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
                 0x0800273c                RCC_APB1PeriphResetCmd
  .text.RCC_APB2PeriphResetCmd
-                0x08002758       0x1c C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x08002758       0x1c C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
                 0x08002758                RCC_APB2PeriphResetCmd
  .text.SPI_I2S_DeInit
-                0x08002774       0x70 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x08002774       0x70 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
                 0x08002774                SPI_I2S_DeInit
  .text.I2S_Init
-                0x080027e4       0xfc C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x080027e4       0xfc C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
                 0x080027e4                I2S_Init
- .text.I2S_Cmd  0x080028e0       0x1c C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+ .text.I2S_Cmd  0x080028e0       0x1c C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
                 0x080028e0                I2S_Cmd
  .text.SPI_I2S_SendData
-                0x080028fc        0x4 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x080028fc        0x4 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
                 0x080028fc                SPI_I2S_SendData
  .text.SPI_I2S_DMACmd
-                0x08002900       0x14 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x08002900       0x14 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
                 0x08002900                SPI_I2S_DMACmd
  .text.SPI_I2S_ITConfig
-                0x08002914       0x24 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x08002914       0x24 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
                 0x08002914                SPI_I2S_ITConfig
  .text.SPI_I2S_GetFlagStatus
-                0x08002938        0xc C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x08002938        0xc C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
                 0x08002938                SPI_I2S_GetFlagStatus
  .text.DAC_Init
-                0x08002944       0x34 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x08002944       0x34 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
                 0x08002944                DAC_Init
- .text.DAC_Cmd  0x08002978       0x28 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+ .text.DAC_Cmd  0x08002978       0x28 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
                 0x08002978                DAC_Cmd
  .text.DAC_SetChannel1Data
-                0x080029a0       0x20 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x080029a0       0x20 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
                 0x080029a0                DAC_SetChannel1Data
- .text.RNG_Cmd  0x080029c0       0x1c C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
+ .text.RNG_Cmd  0x080029c0       0x1c C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
                 0x080029c0                RNG_Cmd
  .text.RNG_GetRandomNumber
-                0x080029dc        0xc C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
+                0x080029dc        0xc C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
                 0x080029dc                RNG_GetRandomNumber
  .text.RNG_GetFlagStatus
-                0x080029e8       0x14 C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
+                0x080029e8       0x14 C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
                 0x080029e8                RNG_GetFlagStatus
  .text.Reset_Handler
-                0x080029fc       0x44 C:\Users\CNous\AppData\Local\Temp\ccs07vTt.o
+                0x080029fc       0x44 C:\Users\CNous\AppData\Local\Temp\cc3nPkKo.o
                 0x080029fc                Reset_Handler
  .text.Default_Handler
-                0x08002a40        0x2 C:\Users\CNous\AppData\Local\Temp\ccs07vTt.o
+                0x08002a40        0x2 C:\Users\CNous\AppData\Local\Temp\cc3nPkKo.o
                 0x08002a40                RTC_Alarm_IRQHandler
                 0x08002a40                HASH_RNG_IRQHandler
                 0x08002a40                EXTI2_IRQHandler
@@ -1089,9 +1089,9 @@ Linker script and memory map
  *(.glue_7)
  .glue_7        0x00000000        0x0 linker stubs
  *(.rodata .rodata* .gnu.linkonce.r.*)
- .rodata        0x08003cc4     0x9008 C:\Users\CNous\AppData\Local\Temp\cc9h8BCO.o
+ .rodata        0x08003cc4     0x9008 C:\Users\CNous\AppData\Local\Temp\ccjdkwZH.o
                 0x08003cc4                step_dd_table
- .rodata        0x0800cccc       0x30 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
+ .rodata        0x0800cccc       0x30 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
                 0x0800cccc                GPIO_CLK
                 0x0800ccdc                GPIO_PIN
                 0x0800cce4                BUTTON_IRQn
@@ -1127,7 +1127,7 @@ Linker script and memory map
 .data           0x20000000       0x88 load address 0x0800d0d4
                 0x20000000                _sdata = .
  *(.data .data.*)
- .data          0x20000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+ .data          0x20000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x20000000                TimingDelay
                 0x20000004                pass
                 0x20000008                _fsam
@@ -1135,10 +1135,10 @@ Linker script and memory map
                 0x20000010                delayVol
                 0x20000014                f2
                 0x20000018                f1
- .data          0x2000001c       0x14 C:\Users\CNous\AppData\Local\Temp\ccVTD6w2.o
+ .data          0x2000001c       0x14 C:\Users\CNous\AppData\Local\Temp\cc2JOrUz.o
                 0x2000001c                AHBPrescTable
                 0x2000002c                SystemCoreClock
- .data          0x20000030       0x34 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+ .data          0x20000030       0x34 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
                 0x20000030                CODECTimeout
                 0x20000034                CurrAudioInterface
                 0x20000038                AUDIO_MAL_DMA_CLOCK
@@ -1152,27 +1152,27 @@ Linker script and memory map
                 0x20000058                AUDIO_MAL_DMA_FLAG_DME
                 0x2000005c                AudioTotalSize
                 0x20000060                AudioRemSize
- .data          0x20000064       0x14 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
+ .data          0x20000064       0x14 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
                 0x20000064                GPIO_PORT
                 0x20000074                BUTTON_PORT
- .data          0x20000078       0x10 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+ .data          0x20000078       0x10 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
                 0x20000088                . = ALIGN (0x4)
                 0x20000088                _edata = .
 
 .bss            0x20000088     0xe3ac load address 0x0800d15c
                 0x20000088                _sbss = .
  *(.bss .bss.*)
- .bss           0x20000088     0xddcc C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+ .bss           0x20000088     0xddcc C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x20000088                ADC3ConvertedValue
                 0x2000008c                delayline
                 0x2000db4c                audiobuff
                 0x2000de4c                state
                 0x2000de50                phase2
- .bss           0x2000de54        0x8 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+ .bss           0x2000de54        0x8 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
                 0x2000de54                AUDIO_MAL_DMA_CHANNEL
                 0x2000de58                OutputDev
  *(COMMON)
- COMMON         0x2000de5c      0x55c C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+ COMMON         0x2000de5c      0x55c C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                 0x2000de5c                _j
                 0x2000de60                _z
                 0x2000de64                freq
@@ -1185,7 +1185,7 @@ Linker script and memory map
                 0x2000de84                writepos
                 0x2000de88                _f
                 0x2000e3a8                RCC_Clocks
- COMMON         0x2000e3b8       0x7c C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+ COMMON         0x2000e3b8       0x7c C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
                 0x2000e3b8                CurrentPos
                 0x2000e3bc                AUDIO_MAL_DMA_InitStructure
                 0x2000e3f8                DMA_InitStructure
@@ -1198,26 +1198,26 @@ Linker script and memory map
  *(.co_stack .co_stack.*)
                 0x2000e438                . = ALIGN (0x4)
                 0x2000e438                _end = .
-LOAD C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccVTD6w2.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o
-LOAD C:\Users\CNous\AppData\Local\Temp\cc9h8BCO.o
-LOAD C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
-LOAD C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
-LOAD C:\Users\CNous\AppData\Local\Temp\ccs07vTt.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cc2JOrUz.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccjdkwZH.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cc3nPkKo.o
 LOAD c:/gnutoolsarmembedded/4.6-2012q4/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a
 LOAD C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu\libc.a
 LOAD C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu\libm.a
@@ -1228,69 +1228,69 @@ END GROUP
 OUTPUT(horrorophone.elf elf32-littlearm)
 
 .comment        0x00000000       0x70
- .comment       0x00000000       0x70 C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+ .comment       0x00000000       0x70 C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
                                  0x71 (size before relaxing)
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccVTD6w2.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cc9h8BCO.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
- .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cc2JOrUz.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccjdkwZH.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
 
 .ARM.attributes
                 0x00000000       0x39
  .ARM.attributes
-                0x00000000       0x3b C:\Users\CNous\AppData\Local\Temp\ccaQK6Uz.o
+                0x00000000       0x3b C:\Users\CNous\AppData\Local\Temp\ccCrTzON.o
  .ARM.attributes
-                0x0000003b       0x3b C:\Users\CNous\AppData\Local\Temp\ccEQGrsK.o
+                0x0000003b       0x3b C:\Users\CNous\AppData\Local\Temp\ccd8NQ72.o
  .ARM.attributes
-                0x00000076       0x3b C:\Users\CNous\AppData\Local\Temp\ccVTD6w2.o
+                0x00000076       0x3b C:\Users\CNous\AppData\Local\Temp\cc2JOrUz.o
  .ARM.attributes
-                0x000000b1       0x3b C:\Users\CNous\AppData\Local\Temp\ccgduQ1K.o
+                0x000000b1       0x3b C:\Users\CNous\AppData\Local\Temp\ccXyQaYu.o
  .ARM.attributes
-                0x000000ec       0x3b C:\Users\CNous\AppData\Local\Temp\cc9h8BCO.o
+                0x000000ec       0x3b C:\Users\CNous\AppData\Local\Temp\ccjdkwZH.o
  .ARM.attributes
-                0x00000127       0x3b C:\Users\CNous\AppData\Local\Temp\cc3OIJww.o
+                0x00000127       0x3b C:\Users\CNous\AppData\Local\Temp\ccUUxYlg.o
  .ARM.attributes
-                0x00000162       0x3b C:\Users\CNous\AppData\Local\Temp\ccdiJVAu.o
+                0x00000162       0x3b C:\Users\CNous\AppData\Local\Temp\ccJdNFLq.o
  .ARM.attributes
-                0x0000019d       0x3b C:\Users\CNous\AppData\Local\Temp\ccOCWNmv.o
+                0x0000019d       0x3b C:\Users\CNous\AppData\Local\Temp\ccLorqYH.o
  .ARM.attributes
-                0x000001d8       0x3b C:\Users\CNous\AppData\Local\Temp\ccFxyfoM.o
+                0x000001d8       0x3b C:\Users\CNous\AppData\Local\Temp\ccbwz0vh.o
  .ARM.attributes
-                0x00000213       0x3b C:\Users\CNous\AppData\Local\Temp\ccoQU7Ms.o
+                0x00000213       0x3b C:\Users\CNous\AppData\Local\Temp\cclp2ERe.o
  .ARM.attributes
-                0x0000024e       0x3b C:\Users\CNous\AppData\Local\Temp\ccdMfW0v.o
+                0x0000024e       0x3b C:\Users\CNous\AppData\Local\Temp\cceL2Iyq.o
  .ARM.attributes
-                0x00000289       0x3b C:\Users\CNous\AppData\Local\Temp\ccNtjf6C.o
+                0x00000289       0x3b C:\Users\CNous\AppData\Local\Temp\ccXnCjCS.o
  .ARM.attributes
-                0x000002c4       0x3b C:\Users\CNous\AppData\Local\Temp\ccFgL9T2.o
+                0x000002c4       0x3b C:\Users\CNous\AppData\Local\Temp\ccuE1YoC.o
  .ARM.attributes
-                0x000002ff       0x3b C:\Users\CNous\AppData\Local\Temp\cc90bFWR.o
+                0x000002ff       0x3b C:\Users\CNous\AppData\Local\Temp\cc9CJJSG.o
  .ARM.attributes
-                0x0000033a       0x3b C:\Users\CNous\AppData\Local\Temp\ccqiLs9V.o
+                0x0000033a       0x3b C:\Users\CNous\AppData\Local\Temp\cc3EHfU4.o
  .ARM.attributes
-                0x00000375       0x3b C:\Users\CNous\AppData\Local\Temp\ccNSsU6j.o
+                0x00000375       0x3b C:\Users\CNous\AppData\Local\Temp\cctjPKdO.o
  .ARM.attributes
-                0x000003b0       0x3b C:\Users\CNous\AppData\Local\Temp\ccEONIkn.o
+                0x000003b0       0x3b C:\Users\CNous\AppData\Local\Temp\ccIvFID4.o
  .ARM.attributes
-                0x000003eb       0x3b C:\Users\CNous\AppData\Local\Temp\ccEC6nux.o
+                0x000003eb       0x3b C:\Users\CNous\AppData\Local\Temp\ccJy2HDF.o
  .ARM.attributes
-                0x00000426       0x3b C:\Users\CNous\AppData\Local\Temp\ccihG1oY.o
+                0x00000426       0x3b C:\Users\CNous\AppData\Local\Temp\cccy2jLw.o
  .ARM.attributes
-                0x00000461       0x21 C:\Users\CNous\AppData\Local\Temp\ccs07vTt.o
+                0x00000461       0x21 C:\Users\CNous\AppData\Local\Temp\cc3nPkKo.o
  .ARM.attributes
                 0x00000482       0x24 c:/gnutoolsarmembedded/4.6-2012q4/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
  .ARM.attributes

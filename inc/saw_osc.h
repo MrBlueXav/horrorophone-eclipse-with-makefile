@@ -1,4 +1,11 @@
-/* blepvco - minBLEP-based, hard-sync-capable LADSPA VCOs.
+/*
+ * * ******************************************************************************
+  * @file     saw_osc.h
+  * @author  Xavier Halgand
+  * @version
+  * @date    october 2012
+ *
+ * from : blepvco - minBLEP-based, hard-sync-capable LADSPA VCOs.
  *
  * Copyright (C) 2004-2005 Sean Bolton.
  *
@@ -21,12 +28,12 @@
  * MA 02111-1307, USA.
  */
 
-#ifndef _BLEPVCO_H
-#define _BLEPVCO_H
+#ifndef _SAW_OSC_H
+#define _SAW_OSC_H
 
 #include "minblep_tables.h"
 
 #define FILLEN 256
- enum { OUTP, FREQ, EXPM, LINM, OCTN, TUNE, EXPG, LING, FILT, NPORT };
 
-#endif /* _BLEPVCO_H */
+
+#endif
