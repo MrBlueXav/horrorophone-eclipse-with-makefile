@@ -1,0 +1,1340 @@
+Archive member included because of file (symbol)
+
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+                              C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o (memcpy)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
+                              C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o (memset)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_lrint.o)
+                              C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o (lrintf)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_sin.o)
+                              C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o (sinf)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o)
+                              c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_sin.o) (__ieee754_rem_pio2f)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_cos.o)
+                              c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_sin.o) (__kernel_cosf)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o)
+                              c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o) (__kernel_rem_pio2f)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_sin.o)
+                              c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_sin.o) (__kernel_sinf)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_fabs.o)
+                              c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o) (fabsf)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_floor.o)
+                              c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o) (floorf)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_scalbn.o)
+                              c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o) (scalbnf)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_copysign.o)
+                              c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_scalbn.o) (copysignf)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                              C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o (__aeabi_f2d)
+c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                              C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o (__aeabi_dcmplt)
+
+Allocating common symbols
+Common symbol       size              file
+
+_j                  0x2               C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+CurrentPos          0x4               C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+_z                  0x4               C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+freq                0x4               C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+_init               0x2               C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+readpos             0x4               C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+_p                  0x4               C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+_w                  0x4               C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+phase2Step          0x4               C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+AUDIO_MAL_DMA_InitStructure
+                    0x3c              C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+GPIO_InitStructure  0x8               C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+writepos            0x4               C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+_f                  0x520             C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+NVIC_InitStructure  0x4               C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+RCC_Clocks          0x10              C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+DMA_InitStructure   0x3c              C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+ .text.Delay    0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccbPBfbs.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccbPBfbs.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x68 C:\Users\CNous\AppData\Local\Temp\ccbPBfbs.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o
+ .text.place_step_dd
+                0x00000000       0x78 C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccmRAF0r.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccmRAF0r.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccmRAF0r.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .text.EVAL_AUDIO_SetAudioInterface
+                0x00000000       0xa8 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .text.EVAL_AUDIO_DeInit
+                0x00000000       0xe4 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .text.EVAL_AUDIO_PauseResume
+                0x00000000       0x98 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .text.EVAL_AUDIO_Stop
+                0x00000000       0x78 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .text.EVAL_AUDIO_VolumeCtl
+                0x00000000       0x44 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .text.EVAL_AUDIO_Mute
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .text.Audio_MAL_Play
+                0x00000000       0x3c C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .text.DAC_Config
+                0x00000000       0x50 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+ .text.STM_EVAL_LEDToggle
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+ COMMON         0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+ .text.SYSCFG_DeInit
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+ .text.SYSCFG_MemoryRemapConfig
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+ .text.SYSCFG_ETH_MediaInterfaceConfig
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+ .text.SYSCFG_CompensationCellCmd
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+ .text.SYSCFG_GetCompensationCellStatus
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_DeInit
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_StructInit
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_CommonStructInit
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_VBATCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_EOCOnEachRegularChannelCmd
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_ContinuousModeCmd
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_GetMultiModeConversionValue
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_MultiModeDMARequestAfterLastTransferCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x5c C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_ExternalTrigInjectedConvEdgeConfig
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_SoftwareStartInjectedConv
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_ITConfig
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_ClearFlag
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_GetITStatus
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_StructInit
+                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_PeriphIncOffsetSizeConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_FlowControllerConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_SetCurrDataCounter
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_DoubleBufferModeConfig
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_DoubleBufferModeCmd
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_MemoryTargetConfig
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_GetCurrentMemoryTarget
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_GetCmdStatus
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_GetFIFOStatus
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_GetITStatus
+                0x00000000       0x54 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x34 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .text.EXTI_StructInit
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text.GPIO_DeInit
+                0x00000000      0x118 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text.GPIO_StructInit
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text.GPIO_SetBits
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text.GPIO_ResetBits
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text.GPIO_Write
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text.GPIO_ToggleBits
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_StructInit
+                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_NACKPositionConfig
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_ARPCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_GetPEC
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_DMACmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_ReadRegister
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_ITConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_GetITStatus
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text.I2C_ClearITPendingBit
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_DeInit
+                0x00000000       0x34 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_HSEConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x38 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_HSICmd
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_LSICmd
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_PLLConfig
+                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_PLLI2SConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_PLLI2SCmd
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_MCO1Config
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_MCO2Config
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x30 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_I2SCLKConfig
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_ITConfig
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x34 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_Init
+                0x00000000       0x54 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_StructInit
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.I2S_StructInit
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_Cmd  0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_TIModeCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.I2S_FullDuplexConfig
+                0x00000000       0x48 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_GetCRC
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_DeInit
+                0x00000000      0x1b8 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_TimeBaseInit
+                0x00000000       0x9c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_GetCounter
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_Cmd  0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC1Init
+                0x00000000       0x80 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC2Init
+                0x00000000       0x90 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC3Init
+                0x00000000       0x8c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC4Init
+                0x00000000       0x6c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OCStructInit
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x50 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetCompare1
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetCompare2
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetCompare3
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetCompare4
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_CCxCmd
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ICInit
+                0x00000000      0x168 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_PWMIConfig
+                0x00000000      0x160 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_GetCapture1
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_GetCapture2
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_GetCapture3
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_GetCapture4
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SelectCOM
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ITConfig
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_GetITStatus
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ClearITPendingBit
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_DMACmd
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x88 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_ETRConfig
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x40 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text.TIM_RemapConfig
+                0x00000000        0x8 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .ARM.attributes
+                0x00000000       0x39 C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_DeInit
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_StructInit
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x28 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_SetChannel2Data
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_SetDualChannelData
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x24 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_DMACmd
+                0x00000000       0x2c C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_ITConfig
+                0x00000000       0x20 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_GetFlagStatus
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_ClearFlag
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_GetITStatus
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text.DAC_ClearITPendingBit
+                0x00000000        0xc C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .text          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+ .text.RNG_DeInit
+                0x00000000       0x18 C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+ .text.RNG_ITConfig
+                0x00000000       0x1c C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+ .text.RNG_ClearFlag
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+ .text.RNG_GetITStatus
+                0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+ .text.RNG_ClearITPendingBit
+                0x00000000       0x10 C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+ .text          0x00000000       0x14 C:\Users\CNous\AppData\Local\Temp\ccq9P7Q7.o
+ .data          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccq9P7Q7.o
+ .bss           0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\ccq9P7Q7.o
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_lrint.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_lrint.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_lrint.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_sin.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_sin.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_sin.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_cos.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_cos.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_cos.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_sin.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_sin.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_sin.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_fabs.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_fabs.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_fabs.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_floor.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_floor.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_floor.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_scalbn.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_scalbn.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_scalbn.o)
+ .text          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_copysign.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_copysign.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_copysign.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00100000         xr
+ram              0x20000000         0x00020000         xrw
+ram1             0x10000000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20020000                _eram = 0x20020000
+
+.text           0x08000000     0xc524
+ *(.isr_vector .isr_vector.*)
+ .isr_vector    0x08000000      0x188 C:\Users\CNous\AppData\Local\Temp\ccq9P7Q7.o
+                0x08000000                g_pfnVectors
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text.TimingDelay_Decrement
+                0x08000188       0x14 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x08000188                TimingDelay_Decrement
+ .text.Codec_TIMEOUT_UserCallback
+                0x0800019c        0xc C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x0800019c                Codec_TIMEOUT_UserCallback
+ .text.EVAL_AUDIO_HalfTransfer_CallBack
+                0x080001a8        0x8 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x080001a8                EVAL_AUDIO_HalfTransfer_CallBack
+ .text.EVAL_AUDIO_TransferComplete_CallBack
+                0x080001b0        0x8 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x080001b0                EVAL_AUDIO_TransferComplete_CallBack
+ .text.EVAL_AUDIO_GetSampleCallBack
+                0x080001b8        0x4 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x080001b8                EVAL_AUDIO_GetSampleCallBack
+ .text.randomNum
+                0x080001bc       0x2c C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x080001bc                randomNum
+ .text.ADC3_CH12_DMA_Config
+                0x080001e8       0xf4 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x080001e8                ADC3_CH12_DMA_Config
+ .text.startup.main
+                0x080002dc      0x118 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x080002dc                main
+ .text.NMI_Handler
+                0x080003f4        0x4 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x080003f4                NMI_Handler
+ .text.HardFault_Handler
+                0x080003f8        0x4 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x080003f8                HardFault_Handler
+ .text.MemManage_Handler
+                0x080003fc        0x4 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x080003fc                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000400        0x4 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x08000400                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000404        0x4 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x08000404                UsageFault_Handler
+ .text.SVC_Handler
+                0x08000408        0x4 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x08000408                SVC_Handler
+ .text.DebugMon_Handler
+                0x0800040c        0x4 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x0800040c                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000410        0x4 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x08000410                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000414       0x68 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x08000414                SysTick_Handler
+ .text.EXTI0_IRQHandler
+                0x0800047c        0x4 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x0800047c                EXTI0_IRQHandler
+ .text.TIM4_IRQHandler
+                0x08000480        0x4 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+                0x08000480                TIM4_IRQHandler
+ .text.SystemInit
+                0x08000484      0x120 C:\Users\CNous\AppData\Local\Temp\ccbPBfbs.o
+                0x08000484                SystemInit
+ .text.sawtooth_active
+                0x080005a4       0x34 C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o
+                0x080005a4                sawtooth_active
+ .text.sawtooth_runproc
+                0x080005d8      0x380 C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o
+                0x080005d8                sawtooth_runproc
+ .text.Codec_WriteRegister
+                0x08000958      0x25c C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .text.EVAL_AUDIO_Init
+                0x08000bb4      0x420 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+                0x08000bb4                EVAL_AUDIO_Init
+ .text.EVAL_AUDIO_Play
+                0x08000fd4       0x68 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+                0x08000fd4                EVAL_AUDIO_Play
+ .text.DMA1_Stream7_IRQHandler
+                0x0800103c       0x50 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+                0x0800103c                DMA1_Stream7_IRQHandler
+ .text.DMA1_Stream0_IRQHandler
+                0x0800108c       0x50 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+                0x0800108c                DMA1_Stream0_IRQHandler
+ .text.SPI3_IRQHandler
+                0x080010dc       0x3c C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+                0x080010dc                SPI3_IRQHandler
+ .text.STM_EVAL_LEDInit
+                0x08001118       0x48 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+                0x08001118                STM_EVAL_LEDInit
+ .text.STM_EVAL_LEDOn
+                0x08001160       0x1c C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+                0x08001160                STM_EVAL_LEDOn
+ .text.STM_EVAL_LEDOff
+                0x0800117c       0x1c C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+                0x0800117c                STM_EVAL_LEDOff
+ .text.STM_EVAL_PBInit
+                0x08001198       0x84 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+                0x08001198                STM_EVAL_PBInit
+ .text.STM_EVAL_PBGetState
+                0x0800121c       0x18 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+                0x0800121c                STM_EVAL_PBGetState
+ .text.SYSCFG_EXTILineConfig
+                0x08001234       0x30 C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+                0x08001234                SYSCFG_EXTILineConfig
+ .text.NVIC_Init
+                0x08001264       0x78 C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+                0x08001264                NVIC_Init
+ .text.ADC_Init
+                0x080012dc       0x58 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+                0x080012dc                ADC_Init
+ .text.ADC_CommonInit
+                0x08001334       0x28 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+                0x08001334                ADC_CommonInit
+ .text.ADC_Cmd  0x0800135c       0x14 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+                0x0800135c                ADC_Cmd
+ .text.ADC_RegularChannelConfig
+                0x08001370       0x98 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+                0x08001370                ADC_RegularChannelConfig
+ .text.ADC_SoftwareStartConv
+                0x08001408        0xc C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+                0x08001408                ADC_SoftwareStartConv
+ .text.ADC_DMACmd
+                0x08001414       0x14 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+                0x08001414                ADC_DMACmd
+ .text.ADC_DMARequestAfterLastTransferCmd
+                0x08001428       0x14 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+                0x08001428                ADC_DMARequestAfterLastTransferCmd
+ .text.DMA_DeInit
+                0x0800143c      0x130 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+                0x0800143c                DMA_DeInit
+ .text.DMA_Init
+                0x0800156c       0x70 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+                0x0800156c                DMA_Init
+ .text.DMA_Cmd  0x080015dc       0x14 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+                0x080015dc                DMA_Cmd
+ .text.DMA_GetFlagStatus
+                0x080015f0       0x3c C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+                0x080015f0                DMA_GetFlagStatus
+ .text.DMA_ClearFlag
+                0x0800162c       0x34 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+                0x0800162c                DMA_ClearFlag
+ .text.DMA_ITConfig
+                0x08001660       0x40 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+                0x08001660                DMA_ITConfig
+ .text.EXTI_Init
+                0x080016a0       0x80 C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+                0x080016a0                EXTI_Init
+ .text.GPIO_Init
+                0x08001720       0xc0 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+                0x08001720                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x080017e0        0xc C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+                0x080017e0                GPIO_ReadInputDataBit
+ .text.GPIO_WriteBit
+                0x080017ec        0xc C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+                0x080017ec                GPIO_WriteBit
+ .text.GPIO_PinAFConfig
+                0x080017f8       0x28 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+                0x080017f8                GPIO_PinAFConfig
+ .text.I2C_DeInit
+                0x08001820       0x6c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x08001820                I2C_DeInit
+ .text.I2C_Init
+                0x0800188c       0xe0 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x0800188c                I2C_Init
+ .text.I2C_Cmd  0x0800196c       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x0800196c                I2C_Cmd
+ .text.I2C_GenerateSTART
+                0x08001988       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x08001988                I2C_GenerateSTART
+ .text.I2C_GenerateSTOP
+                0x080019a4       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x080019a4                I2C_GenerateSTOP
+ .text.I2C_Send7bitAddress
+                0x080019c0       0x14 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x080019c0                I2C_Send7bitAddress
+ .text.I2C_AcknowledgeConfig
+                0x080019d4       0x1c C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x080019d4                I2C_AcknowledgeConfig
+ .text.I2C_SendData
+                0x080019f0        0x4 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x080019f0                I2C_SendData
+ .text.I2C_ReceiveData
+                0x080019f4        0x8 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x080019f4                I2C_ReceiveData
+ .text.I2C_CheckEvent
+                0x080019fc       0x18 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x080019fc                I2C_CheckEvent
+ .text.I2C_GetFlagStatus
+                0x08001a14       0x38 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x08001a14                I2C_GetFlagStatus
+ .text.I2C_ClearFlag
+                0x08001a4c        0x8 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+                0x08001a4c                I2C_ClearFlag
+ .text.RCC_GetClocksFreq
+                0x08001a54       0x90 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+                0x08001a54                RCC_GetClocksFreq
+ .text.RCC_AHB1PeriphClockCmd
+                0x08001ae4       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+                0x08001ae4                RCC_AHB1PeriphClockCmd
+ .text.RCC_AHB2PeriphClockCmd
+                0x08001afc       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+                0x08001afc                RCC_AHB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x08001b14       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+                0x08001b14                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x08001b2c       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+                0x08001b2c                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphResetCmd
+                0x08001b44       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+                0x08001b44                RCC_APB1PeriphResetCmd
+ .text.RCC_APB2PeriphResetCmd
+                0x08001b5c       0x18 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+                0x08001b5c                RCC_APB2PeriphResetCmd
+ .text.SPI_I2S_DeInit
+                0x08001b74       0x6c C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+                0x08001b74                SPI_I2S_DeInit
+ .text.I2S_Init
+                0x08001be0       0xec C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+                0x08001be0                I2S_Init
+ .text.I2S_Cmd  0x08001ccc       0x1c C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+                0x08001ccc                I2S_Cmd
+ .text.SPI_I2S_SendData
+                0x08001ce8        0x4 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+                0x08001ce8                SPI_I2S_SendData
+ .text.SPI_I2S_DMACmd
+                0x08001cec       0x14 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+                0x08001cec                SPI_I2S_DMACmd
+ .text.SPI_I2S_ITConfig
+                0x08001d00       0x20 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+                0x08001d00                SPI_I2S_ITConfig
+ .text.SPI_I2S_GetFlagStatus
+                0x08001d20        0xc C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+                0x08001d20                SPI_I2S_GetFlagStatus
+ .text.DAC_Init
+                0x08001d2c       0x30 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+                0x08001d2c                DAC_Init
+ .text.DAC_Cmd  0x08001d5c       0x28 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+                0x08001d5c                DAC_Cmd
+ .text.DAC_SetChannel1Data
+                0x08001d84       0x20 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+                0x08001d84                DAC_SetChannel1Data
+ .text.RNG_Cmd  0x08001da4       0x1c C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+                0x08001da4                RNG_Cmd
+ .text.RNG_GetRandomNumber
+                0x08001dc0        0xc C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+                0x08001dc0                RNG_GetRandomNumber
+ .text.RNG_GetFlagStatus
+                0x08001dcc       0x14 C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+                0x08001dcc                RNG_GetFlagStatus
+ .text.Reset_Handler
+                0x08001de0       0x4c C:\Users\CNous\AppData\Local\Temp\ccq9P7Q7.o
+                0x08001de0                Reset_Handler
+ .text.Default_Handler
+                0x08001e2c        0x4 C:\Users\CNous\AppData\Local\Temp\ccq9P7Q7.o
+                0x08001e2c                RTC_Alarm_IRQHandler
+                0x08001e2c                HASH_RNG_IRQHandler
+                0x08001e2c                EXTI2_IRQHandler
+                0x08001e2c                TIM8_CC_IRQHandler
+                0x08001e2c                TIM1_CC_IRQHandler
+                0x08001e2c                DMA2_Stream5_IRQHandler
+                0x08001e2c                DMA1_Stream5_IRQHandler
+                0x08001e2c                PVD_IRQHandler
+                0x08001e2c                SDIO_IRQHandler
+                0x08001e2c                TAMP_STAMP_IRQHandler
+                0x08001e2c                CAN2_RX1_IRQHandler
+                0x08001e2c                EXTI3_IRQHandler
+                0x08001e2c                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08001e2c                TIM1_UP_TIM10_IRQHandler
+                0x08001e2c                TIM8_UP_TIM13_IRQHandler
+                0x08001e2c                I2C3_ER_IRQHandler
+                0x08001e2c                I2C2_EV_IRQHandler
+                0x08001e2c                DMA1_Stream2_IRQHandler
+                0x08001e2c                CAN1_RX0_IRQHandler
+                0x08001e2c                FPU_IRQHandler
+                0x08001e2c                OTG_HS_WKUP_IRQHandler
+                0x08001e2c                CAN2_SCE_IRQHandler
+                0x08001e2c                DMA2_Stream2_IRQHandler
+                0x08001e2c                SPI1_IRQHandler
+                0x08001e2c                TIM6_DAC_IRQHandler
+                0x08001e2c                TIM1_BRK_TIM9_IRQHandler
+                0x08001e2c                DCMI_IRQHandler
+                0x08001e2c                CAN2_RX0_IRQHandler
+                0x08001e2c                DMA2_Stream3_IRQHandler
+                0x08001e2c                USART6_IRQHandler
+                0x08001e2c                USART3_IRQHandler
+                0x08001e2c                CRYP_IRQHandler
+                0x08001e2c                CAN1_RX1_IRQHandler
+                0x08001e2c                UART5_IRQHandler
+                0x08001e2c                DMA2_Stream0_IRQHandler
+                0x08001e2c                I2C1_EV_IRQHandler
+                0x08001e2c                DMA1_Stream6_IRQHandler
+                0x08001e2c                DMA1_Stream1_IRQHandler
+                0x08001e2c                UART4_IRQHandler
+                0x08001e2c                TIM3_IRQHandler
+                0x08001e2c                RCC_IRQHandler
+                0x08001e2c                TIM8_BRK_TIM12_IRQHandler
+                0x08001e2c                Default_Handler
+                0x08001e2c                EXTI15_10_IRQHandler
+                0x08001e2c                ADC_IRQHandler
+                0x08001e2c                TIM7_IRQHandler
+                0x08001e2c                CAN2_TX_IRQHandler
+                0x08001e2c                TIM5_IRQHandler
+                0x08001e2c                DMA2_Stream7_IRQHandler
+                0x08001e2c                I2C3_EV_IRQHandler
+                0x08001e2c                EXTI9_5_IRQHandler
+                0x08001e2c                RTC_WKUP_IRQHandler
+                0x08001e2c                ETH_WKUP_IRQHandler
+                0x08001e2c                SPI2_IRQHandler
+                0x08001e2c                OTG_HS_EP1_IN_IRQHandler
+                0x08001e2c                CAN1_TX_IRQHandler
+                0x08001e2c                EXTI4_IRQHandler
+                0x08001e2c                FSMC_IRQHandler
+                0x08001e2c                ETH_IRQHandler
+                0x08001e2c                OTG_HS_EP1_OUT_IRQHandler
+                0x08001e2c                WWDG_IRQHandler
+                0x08001e2c                TIM2_IRQHandler
+                0x08001e2c                OTG_FS_WKUP_IRQHandler
+                0x08001e2c                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08001e2c                OTG_HS_IRQHandler
+                0x08001e2c                EXTI1_IRQHandler
+                0x08001e2c                USART2_IRQHandler
+                0x08001e2c                I2C2_ER_IRQHandler
+                0x08001e2c                DMA2_Stream1_IRQHandler
+                0x08001e2c                CAN1_SCE_IRQHandler
+                0x08001e2c                FLASH_IRQHandler
+                0x08001e2c                DMA2_Stream4_IRQHandler
+                0x08001e2c                USART1_IRQHandler
+                0x08001e2c                OTG_FS_IRQHandler
+                0x08001e2c                DMA1_Stream4_IRQHandler
+                0x08001e2c                I2C1_ER_IRQHandler
+                0x08001e2c                DMA2_Stream6_IRQHandler
+                0x08001e2c                DMA1_Stream3_IRQHandler
+ .text          0x08001e30      0x134 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+                0x08001e30                memcpy
+ .text.memset   0x08001f64       0x94 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
+                0x08001f64                memset
+ .text.lrintf   0x08001ff8       0x94 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_lrint.o)
+                0x08001ff8                lrintf
+ .text.sinf     0x0800208c       0x7c c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_sin.o)
+                0x0800208c                sinf
+ .text.__ieee754_rem_pio2f
+                0x08002108      0x28c c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o)
+                0x08002108                __ieee754_rem_pio2f
+ .text.__kernel_cosf
+                0x08002394      0x104 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_cos.o)
+                0x08002394                __kernel_cosf
+ .text.__kernel_rem_pio2f
+                0x08002498      0x5cc c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o)
+                0x08002498                __kernel_rem_pio2f
+ .text.__kernel_sinf
+                0x08002a64       0x90 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_sin.o)
+                0x08002a64                __kernel_sinf
+ .text.fabsf    0x08002af4       0x10 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_fabs.o)
+                0x08002af4                fabsf
+ .text.floorf   0x08002b04       0xa0 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_floor.o)
+                0x08002b04                floorf
+ .text.scalbnf  0x08002ba4       0xd8 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_scalbn.o)
+                0x08002ba4                scalbnf
+ .text.copysignf
+                0x08002c7c       0x18 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_copysign.o)
+                0x08002c7c                copysignf
+ .text          0x08002c94      0x370 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+                0x08002c94                __aeabi_drsub
+                0x08002c9c                __aeabi_dsub
+                0x08002c9c                __subdf3
+                0x08002ca0                __aeabi_dadd
+                0x08002ca0                __adddf3
+                0x08002f18                __floatunsidf
+                0x08002f18                __aeabi_ui2d
+                0x08002f38                __floatsidf
+                0x08002f38                __aeabi_i2d
+                0x08002f5c                __aeabi_f2d
+                0x08002f5c                __extendsfdf2
+                0x08002f98                __floatundidf
+                0x08002f98                __aeabi_ul2d
+                0x08002fa8                __floatdidf
+                0x08002fa8                __aeabi_l2d
+ .text          0x08003004      0x110 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+                0x08003004                __gtdf2
+                0x08003004                __gedf2
+                0x0800300c                __ltdf2
+                0x0800300c                __ledf2
+                0x08003014                __nedf2
+                0x08003014                __eqdf2
+                0x08003014                __cmpdf2
+                0x08003090                __aeabi_cdrcmple
+                0x080030a0                __aeabi_cdcmpeq
+                0x080030a0                __aeabi_cdcmple
+                0x080030b0                __aeabi_dcmpeq
+                0x080030c4                __aeabi_dcmplt
+                0x080030d8                __aeabi_dcmple
+                0x080030ec                __aeabi_dcmpge
+                0x08003100                __aeabi_dcmpgt
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.rodata .rodata* .gnu.linkonce.r.*)
+ .rodata        0x08003114     0x9008 C:\Users\CNous\AppData\Local\Temp\ccmRAF0r.o
+                0x08003114                step_dd_table
+ .rodata        0x0800c11c       0x30 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+                0x0800c11c                GPIO_CLK
+                0x0800c12c                GPIO_PIN
+                0x0800c134                BUTTON_IRQn
+                0x0800c138                BUTTON_PIN_SOURCE
+                0x0800c13c                BUTTON_PORT_SOURCE
+                0x0800c140                BUTTON_EXTI_LINE
+                0x0800c144                BUTTON_CLK
+                0x0800c148                BUTTON_PIN
+ .rodata.TWO23  0x0800c14c        0x8 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_lrint.o)
+ .rodata.npio2_hw
+                0x0800c154       0x80 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o)
+ .rodata.two_over_pi
+                0x0800c1d4      0x318 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o)
+ .rodata.init_jk
+                0x0800c4ec        0xc c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o)
+ .rodata.PIo2   0x0800c4f8       0x2c c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o)
+
+.vfp11_veneer   0x0800c524        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0800c524        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0800c524        0x0
+ .iplt          0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+
+.rel.dyn        0x0800c524        0x0
+ .rel.iplt      0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0800c524                . = ALIGN (0x4)
+                0x0800c524                _etext = .
+                0x0800c524                _sidata = .
+
+.data           0x20000000       0x88 load address 0x0800c524
+                0x20000000                _sdata = .
+ *(.data .data.*)
+ .data          0x20000000       0x1c C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x20000000                TimingDelay
+                0x20000004                pass
+                0x20000008                _fsam
+                0x2000000c                fdb
+                0x20000010                delayVol
+                0x20000014                f2
+                0x20000018                f1
+ .data          0x2000001c       0x14 C:\Users\CNous\AppData\Local\Temp\ccbPBfbs.o
+                0x2000001c                AHBPrescTable
+                0x2000002c                SystemCoreClock
+ .data          0x20000030       0x34 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+                0x20000030                CODECTimeout
+                0x20000034                CurrAudioInterface
+                0x20000038                AUDIO_MAL_DMA_CLOCK
+                0x2000003c                AUDIO_MAL_DMA_STREAM
+                0x20000040                AUDIO_MAL_DMA_DREG
+                0x20000044                AUDIO_MAL_DMA_IRQ
+                0x20000048                AUDIO_MAL_DMA_FLAG_TC
+                0x2000004c                AUDIO_MAL_DMA_FLAG_HT
+                0x20000050                AUDIO_MAL_DMA_FLAG_FE
+                0x20000054                AUDIO_MAL_DMA_FLAG_TE
+                0x20000058                AUDIO_MAL_DMA_FLAG_DME
+                0x2000005c                AudioTotalSize
+                0x20000060                AudioRemSize
+ .data          0x20000064       0x14 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+                0x20000064                GPIO_PORT
+                0x20000074                BUTTON_PORT
+ .data          0x20000078       0x10 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+                0x20000088                . = ALIGN (0x4)
+                0x20000088                _edata = .
+
+.igot.plt       0x20000088        0x0 load address 0x0800c5ac
+ .igot.plt      0x00000000        0x0 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+
+.bss            0x20000088     0xe3ac load address 0x0800c5ac
+                0x20000088                _sbss = .
+ *(.bss .bss.*)
+ .bss           0x20000088     0xddcc C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x20000088                ADC3ConvertedValue
+                0x2000008c                delayline
+                0x2000db4c                audiobuff
+                0x2000de4c                state
+                0x2000de50                phase2
+ .bss           0x2000de54        0x8 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+                0x2000de54                AUDIO_MAL_DMA_CHANNEL
+                0x2000de58                OutputDev
+ *(COMMON)
+ COMMON         0x2000de5c      0x55c C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                0x2000de5c                _j
+                0x2000de60                _z
+                0x2000de64                freq
+                0x2000de68                _init
+                0x2000de6c                readpos
+                0x2000de70                _p
+                0x2000de74                _w
+                0x2000de78                phase2Step
+                0x2000de7c                GPIO_InitStructure
+                0x2000de84                writepos
+                0x2000de88                _f
+                0x2000e3a8                RCC_Clocks
+ COMMON         0x2000e3b8       0x7c C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+                0x2000e3b8                CurrentPos
+                0x2000e3bc                AUDIO_MAL_DMA_InitStructure
+                0x2000e3f8                DMA_InitStructure
+                0x2000e434                . = ALIGN (0x4)
+                0x2000e434                _ebss = .
+
+.co_stack       0x2000e434        0x4 load address 0x0801a958
+                0x2000e438                . = ALIGN (0x8)
+ *fill*         0x2000e434        0x4 
+ *(.co_stack .co_stack.*)
+                0x2000e438                . = ALIGN (0x4)
+                0x2000e438                _end = .
+LOAD C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccbPBfbs.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccmRAF0r.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccZ6FACV.o
+LOAD C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+LOAD C:\Users\CNous\AppData\Local\Temp\ccq9P7Q7.o
+LOAD c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a
+LOAD c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a
+START GROUP
+LOAD c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a
+LOAD c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a
+END GROUP
+OUTPUT(horrorophone.elf elf32-littlearm)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccbPBfbs.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccmRAF0r.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .comment       0x00000000       0x71 C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+
+.ARM.attributes
+                0x00000000       0x37
+ .ARM.attributes
+                0x00000000       0x39 C:\Users\CNous\AppData\Local\Temp\cczKM3ro.o
+ .ARM.attributes
+                0x00000039       0x39 C:\Users\CNous\AppData\Local\Temp\ccmLGgPM.o
+ .ARM.attributes
+                0x00000072       0x39 C:\Users\CNous\AppData\Local\Temp\ccbPBfbs.o
+ .ARM.attributes
+                0x000000ab       0x39 C:\Users\CNous\AppData\Local\Temp\cckd0Sho.o
+ .ARM.attributes
+                0x000000e4       0x39 C:\Users\CNous\AppData\Local\Temp\ccmRAF0r.o
+ .ARM.attributes
+                0x0000011d       0x39 C:\Users\CNous\AppData\Local\Temp\ccKCHNtY.o
+ .ARM.attributes
+                0x00000156       0x39 C:\Users\CNous\AppData\Local\Temp\ccgYK9IF.o
+ .ARM.attributes
+                0x0000018f       0x39 C:\Users\CNous\AppData\Local\Temp\ccQBwKGy.o
+ .ARM.attributes
+                0x000001c8       0x39 C:\Users\CNous\AppData\Local\Temp\cc4v4q6C.o
+ .ARM.attributes
+                0x00000201       0x39 C:\Users\CNous\AppData\Local\Temp\ccrOWAQR.o
+ .ARM.attributes
+                0x0000023a       0x39 C:\Users\CNous\AppData\Local\Temp\ccSojaUo.o
+ .ARM.attributes
+                0x00000273       0x39 C:\Users\CNous\AppData\Local\Temp\ccp4scqb.o
+ .ARM.attributes
+                0x000002ac       0x39 C:\Users\CNous\AppData\Local\Temp\ccYGGdic.o
+ .ARM.attributes
+                0x000002e5       0x39 C:\Users\CNous\AppData\Local\Temp\ccICbt4l.o
+ .ARM.attributes
+                0x0000031e       0x39 C:\Users\CNous\AppData\Local\Temp\ccU2eq8Q.o
+ .ARM.attributes
+                0x00000357       0x39 C:\Users\CNous\AppData\Local\Temp\ccoIrS4E.o
+ .ARM.attributes
+                0x00000390       0x39 C:\Users\CNous\AppData\Local\Temp\cca08akw.o
+ .ARM.attributes
+                0x000003c9       0x39 C:\Users\CNous\AppData\Local\Temp\ccB9XKyi.o
+ .ARM.attributes
+                0x00000402       0x21 C:\Users\CNous\AppData\Local\Temp\ccq9P7Q7.o
+ .ARM.attributes
+                0x00000423       0x20 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000443       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000477       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_lrint.o)
+ .ARM.attributes
+                0x000004ab       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_sin.o)
+ .ARM.attributes
+                0x000004df       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o)
+ .ARM.attributes
+                0x00000513       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_cos.o)
+ .ARM.attributes
+                0x00000547       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o)
+ .ARM.attributes
+                0x0000057b       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_sin.o)
+ .ARM.attributes
+                0x000005af       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_fabs.o)
+ .ARM.attributes
+                0x000005e3       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_floor.o)
+ .ARM.attributes
+                0x00000617       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_scalbn.o)
+ .ARM.attributes
+                0x0000064b       0x34 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_copysign.o)
+ .ARM.attributes
+                0x0000067f       0x22 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000006a1       0x22 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu\libgcc.a(_arm_cmpdf2.o)
+
+.debug_frame    0x00000000      0x1c8
+ .debug_frame   0x00000000       0x2c c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
+ .debug_frame   0x0000002c       0x28 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_lrint.o)
+ .debug_frame   0x00000054       0x28 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_sin.o)
+ .debug_frame   0x0000007c       0x30 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-ef_rem_pio2.o)
+ .debug_frame   0x000000ac       0x20 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_cos.o)
+ .debug_frame   0x000000cc       0x44 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_rem_pio2.o)
+ .debug_frame   0x00000110       0x20 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-kf_sin.o)
+ .debug_frame   0x00000130       0x20 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_fabs.o)
+ .debug_frame   0x00000150       0x28 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_floor.o)
+ .debug_frame   0x00000178       0x30 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_scalbn.o)
+ .debug_frame   0x000001a8       0x20 c:/program files/gnu tools arm embedded/4.8 2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a(lib_a-sf_copysign.o)

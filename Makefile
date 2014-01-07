@@ -1,11 +1,16 @@
-# ----------------------- Makefile for STM32F4 Discovery board projects ------------------------------
-# Don't forget to modify LIBDIR !
+#############################################################################################################
 #
-
-###############################
-TARGET=horrorophone.hex
-EXECUTABLE=horrorophone.elf
+#------------------------ Project : Horrorophone
+# ----------------------- Makefile for STM32F4 Discovery board projects ------------------------------
+#
+#
 #################################
+NAME = horrorophone
+#################################
+
+
+TARGET=$(NAME).hex
+EXECUTABLE=$(NAME).elf
 
 SRC = src/main.c \
 	src/stm32f4xx_it.c \
@@ -40,8 +45,9 @@ LINKFILE = link.ld
 
 OPTIMIZE       = -O3
 
-# Modify the libraries path for your configuration !  :
-LIBDIR = C:\GNUToolsARMEmbedded\4.6-2012q4\arm-none-eabi\lib\armv7e-m\fpu
+
+LIBDIR = 
+#C:\GNUToolsARMEmbedded\4.8-2013q4\arm-none-eabi\lib\armv7e-m\fpu
 
 CC=arm-none-eabi-gcc
 #LD=arm-none-eabi-ld 
@@ -65,17 +71,29 @@ OBJ = $(SRC:%.c=$(OBJDIR)/%.o)
 OBJ += Startup.o
 
 ################################################################################################################
-all: $(TARGET)
+all: $(TARGET) size
 
 $(TARGET): $(EXECUTABLE)
+	@echo 'Invoking: Cross ARM GNU Create Flash Image'
 	$(CP) -O ihex $^ $@
+	@echo 'Finished building: $@'
+	@echo ' '
 
 $(EXECUTABLE): $(SRC) $(STARTUP)
-	$(CC) $(CFLAGS) -nostartfiles  -Wl,-Map=myprogram.map -Wl,--gc-sections $^ -o $@ -L$(LIBDIR) -lgcc -lc -lm
-
+	@echo 'Building target: $@'
+	@echo 'Invoking: Cross ARM C Linker'
+	$(CC) $(CFLAGS) -nostartfiles  -Wl,-Map=horrorophone.map -Wl,--gc-sections $^ -o $@ -L$(LIBDIR) -lgcc -lc -lm
+	@echo 'Finished building target: $@'
+	@echo ' '
+	
+size: $(EXECUTABLE)
+	@echo 'Invoking: Cross ARM GNU Print Size'
+	arm-none-eabi-size  --format=berkeley --totals $^
+	@echo 'Finished building: $@'
+	@echo ' '
+	
 clean:
-	rm -f Startup.lst  $(TARGET)  $(EXECUTABLE) *.lst $(OBJ) $(AUTOGEN)  *.out *.map \
-	 *.dmp
+	rm -f Startup.lst  $(TARGET)  $(EXECUTABLE) *.lst $(OBJ) $(AUTOGEN)  *.out *.map *.dmp
 
 
-# *** EOF ***
+# *** EOF *****************************************************************************************************
